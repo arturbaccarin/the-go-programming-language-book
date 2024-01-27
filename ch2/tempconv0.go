@@ -1,5 +1,5 @@
 package ch2
-
+// Comment to not have conflict
 // type Celsius float64
 // type Fahrenheit float64
 
