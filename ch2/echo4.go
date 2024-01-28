@@ -7,7 +7,7 @@ import (
 )
 
 var n = flag.Bool("n", false, "omit trailing new line")
-var sep = flag.String("s", " ", "separator")
+var sep = flag.String("s", ", ", "separator")
 
 func Echo4() {
 	flag.Parse()
