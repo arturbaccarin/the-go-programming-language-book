@@ -6,5 +6,5 @@ import (
 )
 
 func Echo3() string {
-	return strings.Join(os.Args[1:], " ")
+	return strings.Join(os.Args[1:], " - ")
 }
