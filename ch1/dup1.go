@@ -10,6 +10,7 @@ func Dup1() {
 	counts := make(map[string]int)
 	input := bufio.NewScanner(os.Stdin)
 
+// read input cmd
 	for input.Scan() {
 		counts[input.Text()]++
 	}
