@@ -15,7 +15,7 @@ buffer large enough to hold the entire stream. Be sure to check the error result
 */
 
 /*
-Exercise 1.8: Modify fetch to add the preﬁx http:// to each argument URL if it is missing.
+Exercise 1.8 - Modify fetch to add the preﬁx http:// to each argument URL if it is missing.
 You might want to use strings.HasPrefix.
 */
 
