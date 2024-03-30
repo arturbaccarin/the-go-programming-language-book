@@ -6,7 +6,7 @@ import (
 	"os"
 )
 
-// Exercise 1.4: Modify dup2 to print the names of all files in which each duplicated line occurs.
+// Exercise 1.4 - Modify dup2 to print the names of all files in which each duplicated line occurs.
 func Exercise1_4() {
 	counts := make(map[string]map[string]int)
 	files := os.Args[1:]
