@@ -20,7 +20,7 @@ You might want to use strings.HasPrefix.
 */
 
 /*
-Exercise 1.9: Modify fetch to also print the HTTP status code, found in resp.Status.
+Exercise 1.9 - Modify fetch to also print the HTTP status code, found in resp.Status.
 */
 
 const httpPrefix = "http://"
