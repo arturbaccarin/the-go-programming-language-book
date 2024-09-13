@@ -2,3 +2,6 @@
 main.go
 go.mod
 go.sum
+
+// folders
+./temp
